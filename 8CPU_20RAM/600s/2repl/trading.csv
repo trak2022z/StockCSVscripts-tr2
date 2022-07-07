@@ -1,0 +1,4 @@
+timestamp,applicationTime,databaseTime,numberOfSellOffers,numberOfBuyOffers,replicaId
+1655458967991,13567,11532,48,1066,c0f96404-917f-4b2a-91ad-af7f65eec7f9
+1655459204805,40377,37393,1085,1193,aff57dcc-1aec-4fac-90dc-d20dc6d748a7
+1655459448730,44302,41860,965,945,c0f96404-917f-4b2a-91ad-af7f65eec7f9
